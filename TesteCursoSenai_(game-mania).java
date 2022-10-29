@@ -8,7 +8,7 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class TesteCursoSenai {
+public class TesteGameMania {
 	private WebDriver driver;
 	
 	@Before
